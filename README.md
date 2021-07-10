@@ -45,6 +45,7 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
 ### Reproduce the results
 
 * All the folders are placed as follows and the pre-trained weights are  located under weights/weights_merge.
+  ```python
   ├── README.md
   ├── calculate.py
   ├── data
@@ -106,6 +107,7 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
           ├── cas-micro
           ├── samm-macro
           └── samm-micro 
+  ```
 * Installation of packages using pip
 
   ```python
