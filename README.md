@@ -221,5 +221,5 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
   ```
 ### Contact
 
-##### Please email us at ***@***com if you have any inquiries or issues.
+##### Please email us at hundan135846@163.com if you have any inquiries or issues.
 
