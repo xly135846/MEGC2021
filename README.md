@@ -2,7 +2,7 @@
 
 ### Introduction
 
-We presented an efficient expression spotting framework (TSMSNet) towards the challenge of MaE and ME spotting in MEGC 2021, https://megc2021.github.io. To help publicize our method and domain area, please do mention (or add relevant links on) FME Challenge 2021 and ACM MultiMedia 2021.
+We presented an efficient expression spotting framework (TSMSNet) towards the challenge of MaE and ME spotting in MEGC 2021, https://megc2021.github.io. The MEGC 2021 is one challenge of Multimedia Grand Challenges in ACM MultiMedia (ACM MM) 2021, https://2021.acmmm.org.
 
 ### Steps
 
@@ -17,15 +17,9 @@ Has
 
 #### apex-frame spotting
 
-<img src='img/net.png' width=600 height=300>
-
 * apex-frame spotting through frame skip and the apex-frame spotting network
 
 #### macro- and micro-expression spotting
-
-<img src='img/net_merge.png' width=600 height=300>
-
-<img src='img/merge.png' width=600 height=100>
 
 * macro- and micro-expression spotting through shorter frame skip and the network
 * merge predicted  intervals for improve the performance 
