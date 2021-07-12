@@ -6,14 +6,14 @@ We presented an efficient expression spotting framework (TSMSNet) towards the ch
 
 ### Steps
 
-#### images-process
+#### images preprocess
 
 <img src='https://github.com/xly135846/MEGC2021/blob/main/img/preprocess.png' width=400 height=200>
 
 * landmarks through the method  [Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors](https://github.com/facebookresearch/supervision-by-registration)
-* extract the optical flow features with frame skip/ shorter frame skip
+* extracting the optical flow features with frame skip/ shorter frame skip
 
-* remove global head motion, eye masking, ROI selection
+* removing global head motion, eye masking, ROI selection
 
 #### apex-frame spotting
 
@@ -36,7 +36,7 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
 
 <img src='img/result.png' width=600 height=250>
 
-### Reproduce the results
+### Reproducing the results
 
 * All the folders are placed as follows and the pre-trained weights are  located under weights/weights_merge.
   ```python
