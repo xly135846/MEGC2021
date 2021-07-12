@@ -34,7 +34,7 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
 
 ### Results
 
-<img src='img/result.png' width=600 height=300>
+<img src='img/result.png' width=600 height=250>
 
 ### Reproduce the results
 
