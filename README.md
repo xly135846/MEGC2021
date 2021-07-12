@@ -17,7 +17,7 @@ We presented an efficient expression spotting framework (TSMSNet) towards the ch
 
 #### apex-frame spotting
 
-<img src='img/net.PNG' width=600 height=300>
+<img src='img/net.png' width=600 height=300>
 
 * apex-frame spotting through frame skip and the apex-frame spotting network
 
