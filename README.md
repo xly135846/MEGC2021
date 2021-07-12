@@ -2,7 +2,7 @@
 
 ### Introduction
 
-We presented an efficient expression spotting framework (TSMSNet) towards the challenge of MaE and ME spotting in MEGC 2021, https://megc2021.github.io. 
+We presented an efficient expression spotting framework (TSMSNet) towards the challenge of MaE and ME spotting in MEGC 2021, https://megc2021.github.io. To help publicize our method and domain area, please do mention (or add relevant links on) FME Challenge 2021 and ACM MultiMedia 2021.
 
 ### Steps
 
@@ -222,4 +222,3 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
 ### Contact
 
 ##### Please email us at hundan135846@163.com if you have any inquiries or issues.
-
