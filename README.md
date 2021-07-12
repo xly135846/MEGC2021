@@ -7,8 +7,8 @@ We presented an efficient expression spotting framework (TSMSNet) towards the ch
 ### Steps
 
 #### images-process
-
-<img src='img/preprocess.PNG' width=400 height=200>
+Has 
+<img src='img/preprocess.png' width=400 height=200>
 
 * landmarks through the method  [Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors](https://github.com/facebookresearch/supervision-by-registration)
 * extract the optical flow features with frame skip/ shorter frame skip
@@ -23,9 +23,9 @@ We presented an efficient expression spotting framework (TSMSNet) towards the ch
 
 #### macro- and micro-expression spotting
 
-<img src='img/net_merge.PNG' width=600 height=300>
+<img src='img/net_merge.png' width=600 height=300>
 
-<img src='img/merge.PNG' width=600 height=100>
+<img src='img/merge.png' width=600 height=100>
 
 * macro- and micro-expression spotting through shorter frame skip and the network
 * merge predicted  intervals for improve the performance 
@@ -40,7 +40,7 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
 
 ### Results
 
-<img src='img/result.PNG' width=600 height=500>
+<img src='img/result.png' width=600 height=500>
 
 ### Reproduce the results
 
