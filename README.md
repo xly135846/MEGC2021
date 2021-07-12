@@ -34,7 +34,7 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
 
 ### Results
 
-<img src='img/result.png' width=600 height=500>
+<img src='img/result.png' width=600 height=300>
 
 ### Reproduce the results
 
@@ -107,7 +107,6 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
   ```python
   pip install -r requirements.txt
   ```
-
 
 * The result of face detection and facial landmark detection 
   ```python
