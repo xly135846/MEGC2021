@@ -138,8 +138,7 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
       ├── samm_micro
       └── samm_micro_merge
   ```
-  The result of face detection, facial landmark detection and  preprocess can be achieved by [here](https://pan.baidu.com/s/1EUKWjfvPLf_JDnK36a68Hw). The extract password is 6p2e.
-
+  The result of face detection, facial landmark detection and  preprocess can be downloaded by [BaiduYun](https://pan.baidu.com/s/1EUKWjfvPLf_JDnK36a68Hw) with password 6p2e. The cas_json.7z and samm_json should be unpacked to the folder **json**. Meanwhile, the others 7z should be unpacked to the folder **preprocess**.
 * Training and evaluation
 
   ```python
@@ -151,7 +150,7 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
   #      CAS:0.55, SAMM:0.5
   # --K: the parameter which control the length of frame skip when training
   #      CAS-MaE:12,CAS-ME:31 SAMM-MaE:42, SAMM-ME:227
-  # --path_data: the path of data after preprocessing
+  # --path_data: the path of data after preprocessing that can be downloaded by the provided link.
   # --path_xlsx: the xlsx file of dataset, SAMM.xlsx/CAS.xlsx
   # --mode: expression type: Micro/Macro
   
@@ -172,7 +171,7 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
   #      CAS-MaE:12,CAS-ME:31 SAMM-MaE:42, SAMM-ME:227
   # --mode: expression type: Micro/Macro
   # --xlsx_path: the xlsx file of dataset, SAMM.xlsx/CAS.xlsx
-  # --pre_data_path: the path of saved preprocessing data
+  # --pre_data_path: the path of saved preprocessing data that can be downloaded by the provided link.
   # --base_weight_path: the path of weights which are corresponding to the TSANet for apex frame spotting 
   
   
@@ -193,7 +192,7 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
   #      CAS-MaE:6,CAS-ME:16 SAMM-MaE:21, SAMM-ME:114
   # --mode: expression type: Micro/Macro
   # --xlsx_path: the xlsx file of dataset, SAMM.xlsx/CAS.xlsx
-  # --pre_data_path: the path of saved preprocessing data
+  # --pre_data_path: the path of saved preprocessing data that can be downloaded by the provided link.
   # --step1_npy_path: the path of saved the result of step1, which is the apex frame spotting result
   # --base_weight_path: the path of weights which are corresponding to the STCNet for expression interval proposals 
   
