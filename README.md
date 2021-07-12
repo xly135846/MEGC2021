@@ -8,8 +8,10 @@ We presented an efficient expression spotting framework (TSMSNet) towards the ch
 
 #### images preprocess
 
+<div align=center>
 <img src='https://github.com/xly135846/MEGC2021/blob/main/img/preprocess.png' width=400 height=200>
-
+</div> 
+  
 * landmarks through the method  [Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors](https://github.com/facebookresearch/supervision-by-registration)
 * extracting the optical flow features with frame skip/ shorter frame skip
 
@@ -34,7 +36,9 @@ SAMM Long Videos - http://www2.docm.mmu.ac.uk/STAFF/M.Yap/dataset.php
 
 ### Results
 
+<div align=center>
 <img src='img/result.png' width=600 height=250>
+</div>
 
 ### Reproducing the results
 
