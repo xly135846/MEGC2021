@@ -7,7 +7,7 @@ We presented an efficient expression spotting framework (TSMSNet) towards the ch
 ### Steps
 
 #### images-process
-Has 
+
 <img src='https://github.com/xly135846/MEGC2021/blob/main/img/preprocess.png' width=400 height=200>
 
 * landmarks through the method  [Supervision-by-Registration: An Unsupervised Approach to Improve the Precision of Facial Landmark Detectors](https://github.com/facebookresearch/supervision-by-registration)
